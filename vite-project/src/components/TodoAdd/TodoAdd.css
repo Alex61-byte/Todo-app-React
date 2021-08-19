@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    margin: 0 auto;
+    width :600px;
+    
+}
+input{
+    margin-top: 12px;
+    border: 3px solid gray;
+    width: 250px;
+}

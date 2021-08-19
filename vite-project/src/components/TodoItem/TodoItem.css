@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.row{
+   
+    margin-top: 10px;
+    outline: 2px solid gray;
+}
+button{
+    margin-bottom: 10px;
+}
+
+.checkbox{
+    color: chartreuse;
+    height: 20px;
+    width: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+p{
+    font-size: 26px;
+    font-weight: bolder;
+    color: black;
+}
